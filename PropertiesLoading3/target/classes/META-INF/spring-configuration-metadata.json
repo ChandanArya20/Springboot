@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "me.info",
+      "type": "in.ineuron.comp.Company2",
+      "sourceType": "in.ineuron.comp.Company2"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
