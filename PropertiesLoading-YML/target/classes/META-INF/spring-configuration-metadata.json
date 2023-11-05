@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "emp.info",
+      "type": "in.ineuron.comp.Employee",
+      "sourceType": "in.ineuron.comp.Employee"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

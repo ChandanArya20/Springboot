@@ -1,0 +1,37 @@
+emp:
+  info:
+    id: 23
+    name: Chandan
+    
+    skills:
+    - java
+    - jee
+    - hibernate
+    - spring
+    - spring boot
+    
+    team-members:
+    - Gulshan
+    - Chandan
+    - Akriti
+    - Muskan
+    
+    phone-numbers:
+    - 6202765423
+    - 9905669732
+    - 9906754321
+    - 8764563746
+    
+    id-details:
+      adharNo: 9876
+      panNo: AB1234
+      voterId: ACF783774
+      
+    company:
+      title: RCB
+      location: Bangoluru
+      size: 50
+  
+  
+
+
